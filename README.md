@@ -61,8 +61,8 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-<a href="#" margin-left="10px">
-    <img align="left" alt="coding" width="50%" height="200px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
+<a href="#" text-align="center">
+    <img align="left" alt="coding" text-align="center" height="200px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
 </a>
 
 
