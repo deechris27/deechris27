@@ -54,16 +54,11 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deechris27&&hide=php&layout=compact)](https://github.com/deechris27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deechris27&hide=php&layout=compact)](https://github.com/deechris27/github-readme-stats)
 
 <br />
 
-<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true&theme=buefy" />
-
-<br/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deechris27&repo=github-readme-stats)](https://github.com/deechris27/github-readme-stats)
-
+<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contributed to, total issues&show_icons=true&hide_border=true&theme=buefy" />
 
 
 [website]: http://mytidbit.xyz
