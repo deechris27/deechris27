@@ -26,7 +26,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <a href="#">
-    <img align="right" height="200px" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
+    <img align="right" height="190px" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
 </a>
 
 ### 📺 Latest YouTube Videos
