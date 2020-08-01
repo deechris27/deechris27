@@ -46,7 +46,7 @@ Other     14 mins         ░░░░░░░░░░░░░░░░░░
 [<img align="left" alt="deechris27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mytidbit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-------
+--
 
 <img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true" />
 
