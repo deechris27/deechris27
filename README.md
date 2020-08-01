@@ -59,7 +59,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deechris27&theme=buefy&show_icons=true&hide=issues,contribs)
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deechris27&theme=buefy&show_icons=true&hide=issues,contribs,stars)
 
 
 [website]: http://mytidbit.xyz
