@@ -54,6 +54,9 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 [<img align="left" alt="mytidbit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+![image](https://github.com/deechris27/deechris27/blob/master/game_git.gif)
+
 <br />
 
 <a href="https://github.com/deechris27/github-readme-stats">
