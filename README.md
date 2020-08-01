@@ -59,9 +59,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=Contributed%20to,Total%20Issues&show_icons=true&hide_border=true&theme=buefy" />
-
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deechris27&theme=dark&show_icons=true&hide=Contributedto)
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deechris27&theme=buefy&show_icons=true&hide=issues,contribs)
 
 
 [website]: http://mytidbit.xyz
