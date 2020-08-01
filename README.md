@@ -61,7 +61,10 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-![image](https://github.com/deechris27/deechris27/blob/master/game_git.gif)
+<a href="#">
+    <img align="left" alt="coding" width="100%" height="170px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
+</a>
+
 
 [website]: http://mytidbit.xyz
 [twitter]: https://twitter.com/deechris27
