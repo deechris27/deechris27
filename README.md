@@ -6,7 +6,7 @@
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2)
 ![YouTube Video Views](https://img.shields.io/youtube/views/-oXKbHXpYqE?style=social)
 
-## I'm a Wanderlust traveller, Foodie, Developer, and Teacher!
+## I'm a Wanderlust traveller, Foodie, Developer and a Trainer!
 - 🔭 I’m currently working on some algorithms!
 - 🌱 I’ve plans to learn everything 🤣
 - 👯 I’m hoping to be able to invent something.
@@ -56,7 +56,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <br />
 
 <a href="https://github.com/deechris27/github-readme-stats">
-    <img align="left" alt="deechris27 Github stats" width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contribs,stars&show_icons=true&hide_border=true&theme=buefy" />
+    <img align="left" alt="deechris27 Github stats" width="100%" height="170px" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contribs,stars&show_icons=true&hide_border=true&theme=buefy" />
 </a>
 
 [website]: http://mytidbit.xyz
