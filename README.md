@@ -5,7 +5,7 @@
 - 🌱 I’ve plans to learn everything 🤣
 - 👯 I’m hoping to be able to invent something.
 - 🥅 Goals: Code, Travel, Eat, Explore
-- ⚡ Fun fact: I love the oceans, love scuba diving, a long voyage on ship.
+- ⚡ Fun fact: I love the oceans, love scuba diving, wud luv a long voyage on ship.
 
 📊 **I spent my time on**
 <!--START_SECTION:waka-->
@@ -46,7 +46,7 @@ Other     14 mins         ░░░░░░░░░░░░░░░░░░
 [<img align="left" alt="deechris27 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mytidbit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
---
+<br />
 
 <img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true" />
 
