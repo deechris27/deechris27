@@ -33,6 +33,9 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 - [Lodash _.has in plain Javascript](https://www.youtube.com/watch?v=neqE4gQULRc)
 - [Spoken French](https://www.youtube.com/watch?v=IU6VO8H9oJk)
 
+<a href="#">
+    <img align="right" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
+</a>
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
