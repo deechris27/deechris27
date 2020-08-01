@@ -59,7 +59,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
     <img align="left" alt="deechris27 Github stats" width="60%" height="170px" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contribs,stars&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
 </a>
 <a href="#">
-    <img align="right" alt="coding" border-radius="100px" height="170px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
+    <img align="right" alt="coding" width="35%" border="1px solid black" border-radius="50%" height="170px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
 </a>
 
 [website]: http://mytidbit.xyz
