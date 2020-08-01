@@ -56,7 +56,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <br />
 
 <a href="https://github.com/deechris27/github-readme-stats">
-   <img align="left" alt="deechris27 top contributions" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deechris27&hide=php&layout=compact" />
+   <img align="left" alt="deechris27 top contributions" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deechris27&hide=php&layout=compact" />
 </a>
 <a href="https://github.com/deechris27/github-readme-stats">
     <img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contribs,stars&show_icons=true&hide_border=true&theme=buefy" />
