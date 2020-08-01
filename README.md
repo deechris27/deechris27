@@ -1,20 +1,25 @@
 ### Hello world, I'm Deepak - [Mytidbit][website] since 11 years 👋
 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/deechris27?label=Follow)](https://twitter.com/deechris27)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/deepaksekar27/)](https://in.linkedin.com/in/deepaksekar27/)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2)
+
 ## I'm a Wanderlust traveller, Foodie, Developer, and Teacher!
 - 🔭 I’m currently working on some algorithms!
 - 🌱 I’ve plans to learn everything 🤣
 - 👯 I’m hoping to be able to invent something.
-- 🥅 Goals: Code, Travel, Eat, Explore
-- ⚡ Fun fact: I love the oceans, love scuba diving, wud luv a long voyage on ship.
+- 🥅 Goals: Code, Travel, Eat, Explore.
+- ⚡ Fun fact: I love the oceans, love scuba diving, home brewing, cooking, wud luv a long voyage on ship.
 
 📊 **I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-React   4 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   42.39 % 
-JavaScript   2 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Java         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Node        1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Other     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+React        ██████████░░░░░░░░░░░░░░░   42.39 % 
+JavaScript   ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Java         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Node         ██░░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Other        ░░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 <!--END_SECTION:waka-->
 
@@ -47,8 +52,14 @@ Other     14 mins         ░░░░░░░░░░░░░░░░░░
 [<img align="left" alt="mytidbit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
 
-<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true&theme=dracula" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deechris27&layout=compact)](https://github.com/deechris27/github-readme-stats)
+
+<br />
+<br />
+
+<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true&theme=algolia" />
 
 [website]: http://mytidbit.xyz
 [twitter]: https://twitter.com/deechris27
