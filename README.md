@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/deechris27?label=Follow)](https://twitter.com/deechris27)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Deepak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/deepaksekar27/)](https://in.linkedin.com/in/deepaksekar27/)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2)
+![YouTube Video Views](https://img.shields.io/youtube/views/-oXKbHXpYqE?style=social)
 
 ## I'm a Wanderlust traveller, Foodie, Developer, and Teacher!
 - 🔭 I’m currently working on some algorithms!
@@ -58,7 +59,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contributed to, total issues&show_icons=true&hide_border=true&theme=buefy" />
+<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contributed%20to,total%20issues&show_icons=true&hide_border=true&theme=buefy" />
 
 
 [website]: http://mytidbit.xyz
