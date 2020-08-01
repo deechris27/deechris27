@@ -2,7 +2,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/deechris27?label=Follow)](https://twitter.com/deechris27)
-[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/deepaksekar27/)](https://in.linkedin.com/in/deepaksekar27/)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Deepak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/deepaksekar27/)](https://in.linkedin.com/in/deepaksekar27/)
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2)
 
 ## I'm a Wanderlust traveller, Foodie, Developer, and Teacher!
