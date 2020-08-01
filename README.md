@@ -33,10 +33,15 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 - [Lodash _.has in plain Javascript](https://www.youtube.com/watch?v=neqE4gQULRc)
 - [Spoken French](https://www.youtube.com/watch?v=IU6VO8H9oJk)
 
-<a href="#">
-    <img align="right" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
-</a>
 
+<div text-align="left">
+  <a href="https://www.youtube.com/watch?v=7VAU_J3BwIc">Lodash _.get in plain Javascript | multiple examples</a>
+  <a href="https://www.youtube.com/watch?v=DcjeuICXXhQ">Lodash _.flow in plain Javascript | With promise chain examples</a>
+</div>
+<div>
+    <img align="right" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
+</div>
+<br />
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Using Kubernetes in a Windows environment](https://medium.com/deechris27/using-kubernetes-fa6fd1be81ab)
