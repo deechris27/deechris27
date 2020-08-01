@@ -58,18 +58,13 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true&theme=algolia" />
+<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true&theme=buefy" />
 
 <br/>
-<a href="https://github.com/deechris27/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deechris27&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/deechris27/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deechris27&repo=convoychat" />
-</a>
 
-<br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deechris27&show_owner=true&repo=github-readme-stats)](https://github.com/deechris27/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deechris27&repo=github-readme-stats)](https://github.com/deechris27/github-readme-stats)
+
+
 
 [website]: http://mytidbit.xyz
 [twitter]: https://twitter.com/deechris27
