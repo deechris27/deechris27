@@ -48,12 +48,12 @@ Other     14 mins         ░░░░░░░░░░░░░░░░░░
 
 <br />
 
-<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true" />
+<img align="left" alt="deechris27 Github stats" src="https://github-readme-stats.vercel.app/api?username=deechris27&show_icons=true&hide_border=true&theme=dracula" />
 
 [website]: http://mytidbit.xyz
 [twitter]: https://twitter.com/deechris27
 [youtube]: https://youtube.com/deechris27
-[facebook]: https://facebook.com/deechris27
-[linkedin]: https://linkedin.com/in/deechris27
+[facebook]: https://facebook.com/mytidbit
+[linkedin]: https://linkedin.com/in/deepaksekar27
 
 
