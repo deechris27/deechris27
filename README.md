@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/deechris27?label=Follow)](https://twitter.com/deechris27)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Deepak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/deepaksekar27/)](https://in.linkedin.com/in/deepaksekar27/)
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1)
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/2)
 ![YouTube Video Views](https://img.shields.io/youtube/views/-oXKbHXpYqE?style=social)
 ![](https://komarev.com/ghpvc/?username=deechris27&color=green)
 
@@ -26,7 +26,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <a href="#">
-    <img align="right" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
+    <img align="right" height="100px" alt="coding" src="https://github.com/deechris27/deechris27/blob/master/channel.png" />
 </a>
 
 ### 📺 Latest YouTube Videos
