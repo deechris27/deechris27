@@ -66,7 +66,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
     <img align="right" alt="coding" width="35%" border="1px solid black" border-radius="50%" height="170px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
 </a>
 
-[website]: http://mytidbit.xyz
 [twitter]: https://twitter.com/deechris27
 [youtube]: https://youtube.com/deechris27
 [facebook]: https://facebook.com/mytidbit
