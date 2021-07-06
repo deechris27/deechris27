@@ -62,9 +62,7 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/deechris27/github-readme-stats">
     <img align="left" alt="deechris27 Github stats" width="60%" height="170px" src="https://github-readme-stats.vercel.app/api?username=deechris27&hide=contribs,stars&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" />
 </a>
-<a href="#">
-    <img align="right" alt="coding" width="35%" border="1px solid black" border-radius="50%" height="170px" src="https://github.com/deechris27/deechris27/blob/master/game_git.gif" />
-</a>
+
 
 [twitter]: https://twitter.com/deechris27
 [youtube]: https://youtube.com/deechris27
