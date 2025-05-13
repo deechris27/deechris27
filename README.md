@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=deechris27&color=green)
 
 ## I'm a Wanderlust traveller, Foodie, Developer and a Trainer!
-- 🔭 I’m currently working on some algorithms!
+- 🔭 I’m currently into Gen AI!
 - 🌱 I’ve plans to learn everything 🤣
 - 👯 I’m hoping to be able to invent something.
 - 🥅 Goals: Code, Travel, Eat, Explore.
@@ -19,7 +19,7 @@
 ```text
 React        ██████████░░░░░░░░░░░░░░░   42.39 % 
 JavaScript   ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Java         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+AI           ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
 Node         ██░░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 Other        ░░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
@@ -67,6 +67,5 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 [twitter]: https://twitter.com/deechris27
 [youtube]: https://youtube.com/deechris27
 [facebook]: https://facebook.com/mytidbit
-[linkedin]: https://linkedin.com/in/deepaksekar27
 
 
